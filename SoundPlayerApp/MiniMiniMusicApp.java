@@ -1,5 +1,4 @@
 package SoundPlayerApp;
-
 import javax.sound.midi.*;
 
 public class MiniMiniMusicApp {
