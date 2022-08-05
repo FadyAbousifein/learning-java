@@ -30,9 +30,8 @@ public class MiniMiniMusicApp {
             track.add(noteOff);
 
             // give the sequence to the sequencer 
-            player.setSequence(seq); 
-
             // start the sequencer 
+            player.setSequence(seq); 
             player.start(); 
         } catch (Exception e) {
             e.printStackTrace();
