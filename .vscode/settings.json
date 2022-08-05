@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "Guessing Game",
+        "Making Movie Objects",
+        "test",
+        "C2 - Code Magnets",
+        "Pool Puzzles",
+        "Pool Puzzles/C2",
+        "Code Magnets/C2",
+        "."
+    ],
+    "checker-framework.languageServerPath": "",
+    "checker-framework.frameworkPath": ""
+}
